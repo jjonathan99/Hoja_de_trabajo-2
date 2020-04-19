@@ -1,0 +1,7 @@
+090	luis	40	
+123	maria	50	
+12	as	21	
+23	ds	21	
+12	luis	12	
+43	nils	90	
+12	pedr	21	
