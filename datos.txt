@@ -1,0 +1,2 @@
+100	20	30	distribuidora	20.5
+101	20	20	carniceria	50.5
